@@ -1,5 +1,8 @@
 site_name: Sustainability App
 
+theme:
+ name: material
+
 nav:
 -Home: index.md
 -UserGuide: userGuide.md
