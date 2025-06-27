@@ -1,0 +1,23 @@
+site_name: Sustainability App
+theme:
+ name: material
+ language: en
+ palette:
+  primary: green
+  accent: light green
+
+nav:
+
+- Home: index.md
+
+- UserGuide: userGuide.md
+
+- Dashboard: dashboard.md
+
+- Application: sustainability_application.md
+
+- SavingsCalculator: savings_calculator.md
+
+- Settings: settings.md
+
+- FAQ: faq.md
